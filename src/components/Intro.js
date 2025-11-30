@@ -45,7 +45,7 @@ const Intro = () => {
     <SectionWrapper id="intro">
       <FadeIn>
         <IntroText>
-          Hey there. I'm <span>Harsha</span>, an AI/ML Engineer who brings ideas to life with Python and Generative AI. I thrive on building intelligent, full-stack applications that are not just powerful, but intuitive and scalable.
+          Hey there. I'm <span>Hrishikesh U Gowda</span>, an AI/ML Engineer who brings ideas to life with Python and Generative AI. I thrive on building intelligent, full-stack applications that are not just powerful, but intuitive and scalable.
         </IntroText>
         <ExploreButton to="about" smooth={true} offset={-70} duration={500}>
           Explore My Profile
